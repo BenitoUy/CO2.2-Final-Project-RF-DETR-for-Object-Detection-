@@ -2,7 +2,7 @@
 
 # RF-DETR for Person Detection
 
-This project implements **RF-DETR (Receptive Field Enhanced Detection Transformer)** for person detection tasks using the [People Detection dataset](https://universe.roboflow.com/lane-detection-bvzq3/people-uepbo/dataset/1) from Roboflow. The implementation, experimentation, and results are consolidated in a single Jupyter notebook: `project.ipynb`.
+This project implements **RF-DETR (Receptive Field Enhanced Detection Transformer)** for person detection tasks using the [People Detection dataset](https://universe.roboflow.com/prism-zhxxq/people-4wxxx) from Roboflow. The implementation, experimentation, and results are consolidated in a single Jupyter notebook: `project.ipynb`.
 
 ## Overview
 
@@ -16,7 +16,7 @@ RF-DETR is an improvement of DETR (DEtection TRansformer), designed to handle sm
 ## Files
 
 - `project.ipynb`: Main notebook containing data preprocessing, model training, evaluation, visualizations, and discussion.
-- Dataset: [People Detection by Roboflow](https://universe.roboflow.com/lane-detection-bvzq3/people-uepbo/dataset/1) (in COCO JSON format).
+- Dataset: [People Detection by Roboflow](https://universe.roboflow.com/prism-zhxxq/people-4wxxx) (in COCO JSON format).
 - Pretrained weights and evaluation outputs (optional): available via GitHub repo.
 
 ## Setup Instructions
@@ -70,9 +70,5 @@ Sample frames from test videos demonstrate successful detection of people in ind
 
 - **Full Project Notebook**: `project.ipynb`
 - **GitHub Repo**: [CO2.2 Final Project - RF-DETR](https://github.com/BenitoUy/CO2.2-Final-Project-RF-DETR-for-Object-Detection-)
-- **Dataset**: [People Detection Dataset on Roboflow](https://universe.roboflow.com/lane-detection-bvzq3/people-uepbo/dataset/1)
-
-## References
-
-- Roboflow Blog on RF-DETR: https://blog.roboflow.com/rf-detr/
-- RF-DETR Paper & Implementations: See full reference list in `project.ipynb`
+- **Dataset**: [People Detection Dataset on Roboflow](https://universe.roboflow.com/prism-zhxxq/people-4wxxx)
+- **References**: See full reference list in `project.ipynb`
