@@ -1,0 +1,10 @@
+rfdetr
+numpy
+roboflow
+torch
+torchvision
+opencv-python
+matplotlib
+pandas
+supervision
+tqdm
